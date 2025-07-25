@@ -16,18 +16,18 @@ These alerts help drivers **stay cautious in complex traffic conditions.**
 ---
 
 ### Designed For:
--Dashcam mounted on car windshieled
--Works even when **car bonnet is partially visible**
--Tested in **rainy weather conditions** to improve robustness
+- Dashcam mounted on car windshieled
+- Works even when **car bonnet is partially visible**
+- Tested in **rainy weather conditions** to improve robustness
 
 
 ---
 
-###Tech Stack:
--**Python**
--**OpenCV**
--**YOLOv5(pretrained model)** for object detection
--Real-time **frame wise video analysis**
+### Tech Stack:
+- **Python**
+- **OpenCV**
+- **YOLOv5(pretrained model)** for object detection
+- Real-time **frame wise video analysis**
 
 ---
 
