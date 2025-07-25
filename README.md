@@ -38,7 +38,7 @@ These alerts help drivers **stay cautious in complex traffic conditions.**
 - Capable of running in **moderate weather interference** (e.g rain)
 - Supports videos with **bonnet partially in frame**
 
-- -
+---
 
 ### Work in Progess:
 - Improving **false-positive filtering** using confidence level threshold and bounding box logic
@@ -53,8 +53,8 @@ this project is being improved regularly by experiementing with differentdetecti
 
 ---
 ## Developer
-**Snehal DUbey**
-B.Tech CSE student, RTU KOta
+**Snehal Dubey**
+(B.Tech CSE student, RTU KOta),
 Learning AI/ML through hands-on projects like this
 
 ---
